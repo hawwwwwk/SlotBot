@@ -2,6 +2,8 @@
 
 Simple experiment that was used to test the profitability of Nimm7's !!slot command. Spoiler: the house always wins.
 <html>
+<h3> ~ Usage</h3>
+you are going to be broke
 <h3> ~ Installation </h3>
 Why would you ever want to use this like actually<br><br>
 
