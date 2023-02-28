@@ -1,4 +1,3 @@
-<im still learning html cut me a damn break>
 # SlotBot
 
 Simple experiment that was used to test the profitability of Nimm7's !!slot command. Spoiler: the house always wins.
@@ -11,5 +10,6 @@ Why would you ever want to use this like actually<br><br>
 -Sit back and watch your nimcoins disappear!
 </html>
 
-
 <img src="https://cdn.discordapp.com/attachments/832360177578934362/1079961580919341107/IMG_1256.jpg" height="400" width="300"></img>
+
+<im still learning html cut me a damn break>
