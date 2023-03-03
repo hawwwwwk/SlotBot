@@ -1,6 +1,6 @@
 # SlotBot
 
-<b>Note: use of this program is against Disord's TOS. You are responsible for what you do with the source code.</b>
+<b>Note: use of this program is against Disord's TOS. You are responsible for what you do with the source code.</b> <br><br>
 Simple experiment that was used to test the profitability of Nimm7's !!slot command. Spoiler: the house always wins.
 <html>
 <h3> ~ Usage</h3>
