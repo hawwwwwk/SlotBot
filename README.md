@@ -8,8 +8,8 @@ you are going to be broke
 <h3> ~ Installation </h3>
 Why would you ever want to use this like actually<br><br>
 
--Anyways, open the profile files up in Visual Studio code and build the solution. <br>
--In the same directory as the newly built .exe file, create a .txt file named <code>"token.txt"</code>. All the config you have to do is in the exe, it should guide you through it.<br>
+-Anyways, open the project files up in Visual Studio and build the solution. <br>
+-In the same directory as the newly built .exe file, create a .txt file named <code>token.txt</code>. All the config you have to do is in the exe, it should guide you through it.<br>
 -Sit back and watch your nimcoins disappear!
 </html>
 
